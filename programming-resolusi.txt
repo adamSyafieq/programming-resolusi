@@ -1,0 +1,4 @@
+RESOLUSI
+- belajar fundamental HTML,CSS,JS
+- belajar Database dengan DBMS mysql
+- Membuat sebuah aplikasi sederhana 
