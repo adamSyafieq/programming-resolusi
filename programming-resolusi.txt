@@ -1,4 +1,5 @@
 RESOLUSI
 - belajar fundamental HTML,CSS,JS
 - belajar Database dengan DBMS mysql
-- Membuat sebuah aplikasi sederhana 
+- Membuat sebuah aplikasi sederhana
+- Belajar Pemrograman PHP
