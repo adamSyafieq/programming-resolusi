@@ -3,3 +3,4 @@ RESOLUSI
 - belajar Database dengan DBMS mysql
 - Membuat sebuah aplikasi sederhana
 - Belajar Pemrograman PHP
+- Belajar Dasar OOP dan MVC PHP
